@@ -1,0 +1,35 @@
+line 1:
+    added ":" at the end of the function
+
+line 2: 
+    removed ";"
+
+line 3:
+    variable name is target not targ
+    and for power we use ** not ***
+
+line 5:
+    it is range not ranges
+    and added the ":" at the end of the line
+
+line 6:
+    it is range not ranges
+    and added the ":" at the end of the line
+
+line 7:
+    it is target not targ
+    and added the ":" at the end of the line
+
+line 8:
+    it is ** not ***
+    it is solutions not sol
+
+line 12:
+    print not printf and we calculated for 1729 not 1728
+
+line 13:
+    it is pairs not pair
+    and added the ":" at the end of the line
+
+line 14:
+    it is **3 not **2 and we calculated for 1729 not 1728
